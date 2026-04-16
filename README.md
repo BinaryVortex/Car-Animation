@@ -2,7 +2,7 @@
 
 A clean and modern interactive car animation built using HTML, CSS, and JavaScript.
 
-![Car Animation Screenshot](screenshot.png)
+![Car Animation Screenshot](Screenshot 2024-08-23 140358.png)
 
 ## Overview
 
