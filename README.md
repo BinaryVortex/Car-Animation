@@ -2,11 +2,11 @@
 
 A clean and modern interactive car animation built using HTML, CSS, and JavaScript.
 
-![Car Animation Screenshot](Screenshot 2024-08-23 140358.png)
+![Car Animation Screenshot](Screenshot%202024-08-23%20140358.png)
 
 ## Overview
 
-This project demonstrates a simple car animation scene with a front-view vehicle and minimal design styling. It is a lightweight frontend project ideal for learning HTML structure, CSS styling, and JavaScript animation techniques.
+This project demonstrates a simple car animation scene with a front-view vehicle and minimal design styling. It is a lightweight frontend project ideal for learning HTML structure, CSS styling, and basic JavaScript interactions. The animation includes a moving car on a road with simple scenery.
 
 ## Features
 
@@ -31,7 +31,7 @@ No special tools are required. A modern web browser is sufficient.
 - `index.html` - Main HTML page.
 - `style.css` - Styling for the animation and layout.
 - `script.js` - JavaScript for animation behavior.
-- `screenshot.png` - Preview image shown in this README.
+- `Screenshot 2024-08-23 140358.png` - Preview image shown in this README.
 
 ## Notes
 
